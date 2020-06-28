@@ -1,0 +1,20 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    display:inline-block;
+}
+ul li{
+    padding:0;
+    margin:0;
+    list-style:none;
+    float: left;
+}
+a{
+    text-decoration: none;
+}

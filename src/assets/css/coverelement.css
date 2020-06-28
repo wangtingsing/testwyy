@@ -1,0 +1,9 @@
+/* 覆盖element中的样式 */
+.el-carousel__button{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+  }
+.is-active .el-carousel__button{
+  background-color: red;
+}
